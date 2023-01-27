@@ -8,7 +8,7 @@
 
 # spotDL v4
 
-Download your Spotify playlists and songs along with album art and metadata
+Download || your Spotify playlists and songs along with album art and metadata
 
 [![MIT License](https://img.shields.io/apm/l/atomic-design-ui.svg?style=flat-square&color=44CC11)](https://github.com/spotDL/spotify-downloader/blob/master/LICENSE)
 [![PyPI version](https://img.shields.io/pypi/pyversions/spotDL?color=%2344CC11&style=flat-square)](https://pypi.org/project/spotdl/)
